@@ -1,0 +1,1 @@
+name: login-systemeauthor: Hokanosekaiversion: 1.0main: fr.hokanosekai.Maincommands:  register:    usage: <passwd> <passwd>    description: register a new player  login:    usage: <passwd>    description: login on the server

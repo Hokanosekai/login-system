@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="login:jar">
+    <output-path>$PROJECT_DIR$/../../../../MC/SERVERS/test/plugins</output-path>
+    <root id="archive" name="login.jar">
+      <element id="module-output" name="login" />
+    </root>
+  </artifact>
+</component>
